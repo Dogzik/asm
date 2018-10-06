@@ -1,4 +1,4 @@
-		;global	_print
+		global	_print
 		section	.text
 _print:
 		pushad
